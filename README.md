@@ -94,7 +94,7 @@ Languages: 🇬🇧 English | 🇪🇸 Spanish | 🇵🇹 Portuguese
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=GabrielHumbertDev&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielHumbertDev&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
 </div>
 
 ---
