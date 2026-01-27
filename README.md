@@ -89,12 +89,12 @@ Languages: 🇬🇧 English | 🇪🇸 Spanish | 🇵🇹 Portuguese
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gomes26avelino&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes26avelino&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielHumbertDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHumbertDev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomes26avelino&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielHumbertDev&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -127,7 +127,7 @@ Languages: 🇬🇧 English | 🇪🇸 Spanish | 🇵🇹 Portuguese
 
 **💬 Open to collaborating on security tools, ML projects, and innovative solutions!**
 
-<img src="https://komarev.com/ghpvc/?username=gomes26avelino&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=GabrielHumbertDev&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
