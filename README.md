@@ -89,8 +89,8 @@ Languages: 🇬🇧 English | 🇪🇸 Spanish | 🇵🇹 Portuguese
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHumbertDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHumbertDev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&exclude_repo=&hide=html,css&card_width=320"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielHumbertDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHumbertDev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
