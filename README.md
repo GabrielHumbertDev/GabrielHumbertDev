@@ -89,15 +89,14 @@ Languages: 🇬🇧 English | 🇪🇸 Spanish | 🇵🇹 Portuguese
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHumbertDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHumbertDev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&exclude_repo=&hide=html,css&card_width=320"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHumbertDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHumbertDev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&hide=html,css&card_width=320"/>
 </div>
 
 <div align="center">
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielHumbertDev&theme=github-compact&hide_border=true&bg_color=0d1117&area=true&hide_title=false" alt="Contribution Graph"/>
 </div>
-
 ---
 
 ## 🚀 Career Journey
