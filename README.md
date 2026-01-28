@@ -95,12 +95,7 @@ Languages: 🇬🇧 English | 🇪🇸 Spanish | 🇵🇹 Portuguese
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=GabrielHumbertDev&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielHumbertDev&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielHumbertDev&theme=github-compact&hide_border=true&bg_color=0d1117&area=true&hide_title=false" alt="Contribution Graph"/>
 </div>
 
 ---
