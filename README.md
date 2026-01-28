@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I’m **Gabriel Humbert**, a **Software Engineering Associate Consultant at FDM Group**, with a **2:1 BSc (Hons) in Computer Science (Cybersecurity)** from the University of Greenwich.  
+I'm **Gabriel Humbert**, a **Software Engineering Associate Consultant at FDM Group**, with a **2:1 BSc (Hons) in Computer Science (Cybersecurity)** from the University of Greenwich.  
 I build clean, maintainable software in Agile environments using **Java, Python, SQL and Kotlin**, with strong foundations in **testing (JUnit/Mockito)** and a growing focus on **security engineering**.
 
 ```yaml
@@ -89,12 +89,18 @@ Languages: 🇬🇧 English | 🇪🇸 Spanish | 🇵🇹 Portuguese
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielHumbertDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHumbertDev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHumbertDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHumbertDev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&exclude_repo=&hide=html,css&card_width=320"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielHumbertDev&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielHumbertDev&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielHumbertDev&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
 </div>
 
 ---
