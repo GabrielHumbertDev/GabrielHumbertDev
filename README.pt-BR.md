@@ -4,7 +4,7 @@
 
 [![Inglês](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-INGL%C3%8AS-16324F?style=for-the-badge)](./README.md)
 [![Espanhol](https://img.shields.io/badge/%F0%9F%87%BB%F0%9F%87%AA-ESPANHOL-16324F?style=for-the-badge)](./README.es.md)
-[![Português](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B9-PORTUGU%C3%8AS-16324F?style=for-the-badge)](./README.pt-BR.md)
+![Português](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B9-PORTUGU%C3%8AS-16324F?style=for-the-badge)
 [![Visitar meu site](https://img.shields.io/badge/VISITAR_MEU_SITE-GABRIELHUMBERTDEV.COM-21C7E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabrielhumbertdev.com/pt-br)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Gomes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielghumbert/)
