@@ -66,6 +66,8 @@ languages:
 
 ## Technology toolkit
 
+My technology toolkit brings together enterprise HR technology, software engineering, data and responsible AI. I combine hands-on HRIS experience supporting SAP SuccessFactors with strong engineering fundamentals and carefully selected AI-assisted workflows to accelerate delivery while preserving engineering judgment, quality, security and human accountability. I apply these tools to agentic coding, debugging, code review, documentation, technical research and workflow automation, always with human-validated delivery, while continuously evaluating emerging capabilities for practical, responsible and maintainable value.
+
 **Enterprise and HR technology**
 
 ![SAP](https://img.shields.io/badge/SAP%20SuccessFactors-0FAAFF?style=flat-square&logo=sap&logoColor=white)
@@ -86,8 +88,6 @@ languages:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **AI-assisted engineering and agentic workflows**
-
-I combine strong engineering fundamentals with carefully selected AI-assisted workflows to accelerate delivery while preserving engineering judgment, quality, security and human accountability. I apply these tools to agentic coding, debugging, code review, documentation, technical research and workflow automation, always with human-validated delivery. I continuously evaluate emerging AI capabilities and adopt them when they offer practical, responsible and maintainable value.
 
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)

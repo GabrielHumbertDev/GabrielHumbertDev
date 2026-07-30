@@ -66,6 +66,8 @@ idiomas:
 
 ## Herramientas tecnológicas
 
+Mi conjunto de herramientas reúne tecnología empresarial de RR. HH., ingeniería de software, datos e IA responsable. Combino experiencia práctica en HRIS dando soporte a SAP SuccessFactors con fundamentos sólidos de ingeniería y flujos de trabajo asistidos por IA cuidadosamente seleccionados para acelerar la entrega sin renunciar al criterio técnico, la calidad, la seguridad ni la responsabilidad humana. Aplico estas herramientas a la programación agéntica, la depuración, la revisión de código, la documentación, la investigación técnica y la automatización de flujos, siempre con una entrega validada por personas y evaluando nuevas capacidades por su valor práctico, responsable y mantenible.
+
 **Tecnología empresarial y de RR. HH.**
 
 ![SAP](https://img.shields.io/badge/SAP%20SuccessFactors-0FAAFF?style=flat-square&logo=sap&logoColor=white)
@@ -86,8 +88,6 @@ idiomas:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Ingeniería asistida por IA y flujos de trabajo con agentes**
-
-Combino fundamentos sólidos de ingeniería con flujos de trabajo asistidos por IA cuidadosamente seleccionados para acelerar la entrega sin renunciar al criterio técnico, la calidad, la seguridad ni la responsabilidad humana. Aplico estas herramientas a la programación agéntica, la depuración, la revisión de código, la documentación, la investigación técnica y la automatización de flujos, manteniendo siempre una entrega validada por personas. Evalúo continuamente nuevas capacidades de IA y las adopto cuando aportan un valor práctico, responsable y mantenible.
 
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)

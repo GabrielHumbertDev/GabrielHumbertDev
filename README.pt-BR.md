@@ -66,6 +66,8 @@ idiomas:
 
 ## Conjunto de tecnologias
 
+Meu conjunto de tecnologias reúne tecnologia empresarial de RH, engenharia de software, dados e IA responsável. Combino experiência prática em HRIS no suporte ao SAP SuccessFactors com fundamentos sólidos de engenharia e fluxos de trabalho assistidos por IA cuidadosamente selecionados para acelerar a entrega, preservando o julgamento técnico, a qualidade, a segurança e a responsabilidade humana. Aplico essas ferramentas à codificação agêntica, depuração, revisão de código, documentação, pesquisa técnica e automação de fluxos, sempre com entrega validada por pessoas e avaliando novas capacidades pelo seu valor prático, responsável e sustentável.
+
 **Tecnologia empresarial e de RH**
 
 ![SAP](https://img.shields.io/badge/SAP%20SuccessFactors-0FAAFF?style=flat-square&logo=sap&logoColor=white)
@@ -86,8 +88,6 @@ idiomas:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Engenharia assistida por IA e fluxos de trabalho agênticos**
-
-Combino fundamentos sólidos de engenharia com fluxos de trabalho assistidos por IA cuidadosamente selecionados para acelerar a entrega, preservando o julgamento técnico, a qualidade, a segurança e a responsabilidade humana. Aplico essas ferramentas à codificação agêntica, depuração, revisão de código, documentação, pesquisa técnica e automação de fluxos, sempre com entrega validada por pessoas. Avalio continuamente novas capacidades de IA e as adoto quando oferecem valor prático, responsável e sustentável.
 
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
