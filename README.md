@@ -5,8 +5,11 @@
 **🌐 View this profile in:**<br>
 **🇬🇧 English** · [🇪🇸 Español](./README.es.md) · [🇧🇷 Português](./README.pt-BR.md)
 
+### 🌐 Professional website
+
+[![Visit my website](https://img.shields.io/badge/VISIT_MY_WEBSITE-GABRIELHUMBERTDEV.COM-21C7E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabrielhumbertdev.com/en)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Gomes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielghumbert/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gabrielhumbertdev.com-21C7E8?style=flat-square&logo=googlechrome&logoColor=white)](https://gabrielhumbertdev.com/en)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielhumbert@outlook.com)
 ![Location](https://img.shields.io/badge/Location-London%2C%20UK-2f363d?style=flat-square)
 ![Languages](https://img.shields.io/badge/EN%20%7C%20ES%20%7C%20PT-Fluent-16324f?style=flat-square)
