@@ -2,17 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16324f,100:0a6ed1&height=210&section=header&text=Gabriel%20Humbert&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SAP%20SuccessFactors%20%7C%20HRIS%20%7C%20Software%20Engineering%20%7C%20AI%20%2B%20Automation&descSize=17&descAlignY=57" width="100%" alt="Gabriel Humbert profile header"/>
 
-**🌐 View this profile in:**<br>
-**🇬🇧 English** · [🇪🇸 Español](./README.es.md) · [🇧🇷 Português](./README.pt-BR.md)
-
-### 🌐 Professional website
-
+[![View in English](https://img.shields.io/badge/VIEW_IN-%F0%9F%87%AC%F0%9F%87%A7_ENGLISH-16324F?style=for-the-badge)](./README.md)
+[![View in Spanish](https://img.shields.io/badge/VIEW_IN-%F0%9F%87%BB%F0%9F%87%AA_ESPA%C3%91OL-16324F?style=for-the-badge)](./README.es.md)
+[![View in Portuguese](https://img.shields.io/badge/VIEW_IN-%F0%9F%87%B5%F0%9F%87%B9_PORTUGU%C3%8AS-16324F?style=for-the-badge)](./README.pt-BR.md)
 [![Visit my website](https://img.shields.io/badge/VISIT_MY_WEBSITE-GABRIELHUMBERTDEV.COM-21C7E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabrielhumbertdev.com/en)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Gomes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielghumbert/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielhumbert@outlook.com)
 ![Location](https://img.shields.io/badge/Location-London%2C%20UK-2f363d?style=flat-square)
-![Languages](https://img.shields.io/badge/EN%20%7C%20ES%20%7C%20PT-Fluent-16324f?style=flat-square)
 
 </div>
 
