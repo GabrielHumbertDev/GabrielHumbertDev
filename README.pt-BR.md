@@ -85,6 +85,16 @@ idiomas:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
+**Engenharia assistida por IA e fluxos de trabalho agênticos**
+
+Combino fundamentos sólidos de engenharia com fluxos de trabalho assistidos por IA cuidadosamente selecionados para acelerar a entrega, preservando o julgamento técnico, a qualidade, a segurança e a responsabilidade humana. Aplico essas ferramentas à codificação agêntica, depuração, revisão de código, documentação, pesquisa técnica e automação de fluxos, sempre com entrega validada por pessoas. Avalio continuamente novas capacidades de IA e as adoto quando oferecem valor prático, responsável e sustentável.
+
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat-square&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Microsoft Copilot Studio](https://img.shields.io/badge/Microsoft%20Copilot%20Studio-742774?style=flat-square&logo=microsoft&logoColor=white)
+
 **Dados, IA e entrega**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
