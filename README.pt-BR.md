@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16324f,100:0a6ed1&height=210&section=header&text=Gabriel%20Humbert&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SAP%20SuccessFactors%20%7C%20HRIS%20%7C%20Software%20Engineering%20%7C%20AI%20%2B%20Automation&descSize=17&descAlignY=57" width="100%" alt="Cabeçalho do perfil de Gabriel Humbert"/>
 
-[![Inglês](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-INGL%C3%8AS-16324F?style=for-the-badge)](./README.md)
+[![Inglês](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-INGL%C3%8AS-16324F?style=for-the-badge)](https://github.com/GabrielHumbertDev)
 [![Espanhol](https://img.shields.io/badge/%F0%9F%87%BB%F0%9F%87%AA-ESPANHOL-16324F?style=for-the-badge)](./README.es.md)
 ![Português](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B9-PORTUGU%C3%8AS-16324F?style=for-the-badge)
 [![Visitar meu site](https://img.shields.io/badge/VISITAR_MEU_SITE-GABRIELHUMBERTDEV.COM-21C7E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabrielhumbertdev.com/pt-br)
