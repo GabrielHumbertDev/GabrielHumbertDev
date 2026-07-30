@@ -6,6 +6,7 @@
 [🇬🇧 English](./README.md) · **🇪🇸 Español** · [🇧🇷 Português](./README.pt-BR.md)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Gomes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielghumbert/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-gabrielhumbertdev.com-21C7E8?style=flat-square&logo=googlechrome&logoColor=white)](https://gabrielhumbertdev.com/es)
 [![Correo](https://img.shields.io/badge/Correo-Contáctame-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielhumbert@outlook.com)
 ![Ubicación](https://img.shields.io/badge/Ubicación-Londres%2C%20Reino%20Unido-2f363d?style=flat-square)
 ![Idiomas](https://img.shields.io/badge/EN%20%7C%20ES%20%7C%20PT-Fluido-16324f?style=flat-square)
@@ -120,7 +121,7 @@ Ingeniería de software, estructuras de datos y algoritmos, bases de datos, rede
 
 Estoy abierto a conversar sobre **SAP y tecnología de RR. HH., consultoría de soluciones, software empresarial, IA, automatización y proyectos colaborativos de ingeniería**, en inglés, español o portugués.
 
-[LinkedIn](https://www.linkedin.com/in/gabrielghumbert/) · [Correo](mailto:gabrielhumbert@outlook.com) · [Repositorios](https://github.com/GabrielHumbertDev?tab=repositories)
+[Portafolio](https://gabrielhumbertdev.com/es) · [LinkedIn](https://www.linkedin.com/in/gabrielghumbert/) · [Correo](mailto:gabrielhumbert@outlook.com) · [Repositorios](https://github.com/GabrielHumbertDev?tab=repositories)
 
 <img src="https://komarev.com/ghpvc/?username=GabrielHumbertDev&color=0a6ed1&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil"/>
 
