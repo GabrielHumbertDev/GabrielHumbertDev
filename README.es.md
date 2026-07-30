@@ -7,7 +7,7 @@
 [![Portugués](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B9-PORTUGU%C3%89S-16324F?style=for-the-badge)](./README.pt-BR.md)
 [![Visitar mi sitio web](https://img.shields.io/badge/VISITAR_MI_SITIO_WEB-GABRIELHUMBERTDEV.COM-21C7E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabrielhumbertdev.com/es)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Gomes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielghumbert/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Humbert-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielghumbert/)
 [![Correo](https://img.shields.io/badge/Correo-Contáctame-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielhumbert@outlook.com)
 ![Ubicación](https://img.shields.io/badge/Ubicación-Londres%2C%20Reino%20Unido-2f363d?style=flat-square)
 
